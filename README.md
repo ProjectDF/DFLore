@@ -1,2 +1,2 @@
-# DFLore
-DiamondFire lore (nobody cares)
+### DFLore indexes
++ [Players](/players/players.md)
