@@ -1,6 +1,6 @@
 ### DFLore indexes
 + [Players](/players/players.md)
-+ [Memes](/memes/memes.md)
++ [Inside Jokes](/inside-jokes/inside-jokes.md)
 
 ** **
 to search, just use github's search bar 
