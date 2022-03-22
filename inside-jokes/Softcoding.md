@@ -1,4 +1,4 @@
-#Softcoding
+# Softcoding
 
 Softcoding is a copypasta that was said by [RedDaedalus](RedDaedalus.md)
 
