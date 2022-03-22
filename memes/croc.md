@@ -7,4 +7,4 @@ it spreaded quickly through the DiamondFire Discord, and quickly was everywhere
 
 aspecially the `Repost if you love the croc` gif was sent everywhere across the discord server
 
-![gif](https://cdn.discordapp.com/attachments/784121986241658910/933836479950643210/the_croc.gif)
+![gif](https://user-images.githubusercontent.com/85891155/159384291-fb9eca64-21fb-4940-ad2f-8b79efef3bbf.gif)
