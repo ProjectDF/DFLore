@@ -5,4 +5,4 @@ Ranks:
 
 RedDeadalus is one of the Developers of Diamondfire.
 
-He said the [Softcoding](../inside-jokes/Softcoding) copypasta.
+He said the [Softcoding](../inside-jokes/Softcoding.md) copypasta.
