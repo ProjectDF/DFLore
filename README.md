@@ -1,5 +1,6 @@
 ### DFLore indexes
 + [Players](/players/players.md)
++ [Memes](/memes/memes.md)
 
 ** **
 to search, just use github's search bar 
